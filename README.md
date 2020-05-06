@@ -1,16 +1,8 @@
-# hello_world
+# QR-entries-register
 
-A new Flutter project.
+This app is made for read and watch previous QR scanned codes. You can also send the data to SQL server as you want.
+NOTE: This app is still in progress - not all features are available.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+In order to use this app, you need to install flutter(via Visual Studio Code, Android Studio etc.), connect your phone with USB and deploy the [main.dart](lib/main.dart) file. 
+NOTE: I tried to deploy only on Android device, So IOS support is NOT guaranteed.
